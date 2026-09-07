@@ -1,15 +1,34 @@
-# Semester 1 — Coursework 
+# Master of Cybersecurity – Semester 1
 
-This repository contains coursework, labs, and assessments completed for my Semester 1 cybersecurity modules.
+**Student:** Keertennah Devi A/P Ponnambalam  
+**Matric No:** MEC254026  
+**Program:** Master of Cybersecurity (UTM)  
+**Academic Year:** 2025/2026
 
-## Enrolled Courses
+---
 
-| Course Code | Course Name | Folder |
-|---|---|---|
-| MECR1023 | Information Security Governance and Risk Management | [`MECR1023-Info-Security-Governance-Risk-Mgmt`](./MECR1023-Info-Security-Governance-Risk-Mgmt) |
-| MECR1033 | Digital Forensics | [`MECR1033-Digital-Forensics`](./MECR1033-Digital-Forensics) |
-| MECR1043 | Cloud Computing Security | [`MECR1043-Cloud-Computing-Security`](./MECR1043-Cloud-Computing-Security) |
-| MECR1073 | Penetration Testing | [`MECR1073-Penetration-Testing`](./MECR1073-Penetration-Testing) |
+## 📚 Courses Completed
 
-Each subject folder contains the assignments, reports, labs, and supporting files completed for that module.
+| Code | Course Name | Folder |
+|------|-------------|--------|
+| MECR1023 | Information Security Governance & Risk Management | [Link](./MECR1023-Info-Security-Governance-Risk-Mgmt) |
+| MECR1033 | Digital Forensics | [Link](./MECR1033-Digital-Forensics) |
+| MECR1043 | Cloud Computing Security | [Link](./MECR1043-Cloud-Computing-Security) |
+| MECR1073 | Penetration Testing | [Link](./MECR1073-Penetration-Testing) |
 
+---
+
+## 🛠️ Core Skills Developed
+
+- Information Security Governance & Risk Management
+- Security Policy & Framework Development
+- Project Management (WBS, PERT, CPM)
+- Strategic Planning (SWOT, PESTLE, Vision/Mission)
+- Security Awareness & Culture (SETA)
+- Identity & Access Management
+
+---
+
+## 📄 How to Use This Repo
+
+Each course folder contains all my assignments, self‑reflections, and exams, along with a `README.md` that summarises the learning objectives, tools, and skills gained. This repository serves as a portfolio of my academic work.
