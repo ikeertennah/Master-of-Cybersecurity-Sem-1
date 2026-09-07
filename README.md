@@ -7,14 +7,11 @@
 
 ---
 
-## 📚 Courses Completed
-
-| Code | Course Name | Folder |
-|------|-------------|--------|
-| MECR1023 | Information Security Governance & Risk Management | [Link](./MECR1023-Info-Security-Governance-Risk-Mgmt) |
-| MECR1033 | Digital Forensics | [Link](./MECR1033-Digital-Forensics) |
-| MECR1043 | Cloud Computing Security | [Link](./MECR1043-Cloud-Computing-Security) |
-| MECR1073 | Penetration Testing | [Link](./MECR1073-Penetration-Testing) |
+## 📂 Course Folders
+- [MECR1023 - Info Security Governance & Risk Mgmt](./MECR1023-Info-Security-Governance-Risk-Mgmt)
+- [MECR1033 - Digital Forensics](./MECR1033-Digital-Forensics)
+- [MECR1043 - Cloud Computing Security](./MECR1043-Cloud-Computing-Security)
+- [MECR1073 - Penetration Testing](./MECR1073-Penetration-Testing)
 
 ---
 
