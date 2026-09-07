@@ -1,1 +1,1 @@
-# Master-of-Cybersecurity---Sem-1
+# Master-of-Cybersecurity-Sem-1
