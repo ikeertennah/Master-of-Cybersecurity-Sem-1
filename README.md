@@ -20,10 +20,6 @@ Each subject folder contains the assignments, reports, labs, and supporting file
 ├── MECR1023-Info-Security-Governance-Risk-Mgmt/
 ├── MECR1033-Digital-Forensics/
 ├── MECR1043-Cloud-Computing-Security/
-├── MECR1053-Secure-Software-Engineering/
 ├── MECR1073-Penetration-Testing/
-├── MECR2123-Security-Audit-and-Assessment/
-├── MECR2323-Malware-Analysis/
-├── FYP-IAM-Anomaly-Detection/
 └── README.md
 ```
