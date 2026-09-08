@@ -28,4 +28,4 @@
 
 ## 📄 How to Use This Repo
 
-Each course folder contains all my assignments, self‑reflections, and exams, along with a `README.md` that summarises the learning objectives, tools, and skills gained. This repository serves as a portfolio of my academic work.
+Each course folder contains all my assignments, self‑reflections, and project, along with a `README.md` that summarises the learning objectives, tools, and skills gained. This repository serves as a portfolio of my academic work.
