@@ -46,7 +46,7 @@
 | `Self-Reflection-01_...pdf` | WBS, PERT, and CPM analysis for a Security Awareness Program |
 | `Self-Reflection-02_...pdf` | Organizational vs. Contingency Planning; SDLC vs. SecSDLC comparison |
 | `Self-Reflection-03_...pdf` | Identity vs. Access Management policy comparison with custom NOV policy |
-| `Final-Exam_...pdf` | 12-Month High-Impact Security Program proposal (Phishing + Password Sharing mitigation) |
+
 
 ---
 
