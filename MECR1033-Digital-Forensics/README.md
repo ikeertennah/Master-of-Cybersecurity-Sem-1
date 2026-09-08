@@ -99,7 +99,5 @@ This portfolio demonstrates that I am not just a "tool runner"—I understand th
 
 These skills are directly transferable to roles in **Digital Forensics, Incident Response, eDiscovery, and Cybersecurity Consulting**.
 
----
 
-## 📁 Repository Structure
 
