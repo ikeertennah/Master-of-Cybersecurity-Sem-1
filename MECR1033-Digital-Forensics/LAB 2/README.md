@@ -1,6 +1,6 @@
 # MECR1033 – Digital Forensics (Lab 2: System Activity Log Analysis with LastActivityView)
 
-**Semester:** 1 | **Year:** 2025/2026 | **Instructor:** PM Ts. Dr. Siti Hajar Othman | **GPA:** 4.00
+**Semester:** 1 | **Year:** 2025/2026 | **Instructor:** PM Ts. Dr. Siti Hajar Othman 
 ---
 
 ## 📋 Lab Overview
