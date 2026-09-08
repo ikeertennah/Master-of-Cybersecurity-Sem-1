@@ -1,6 +1,6 @@
 # MECR1023 – Information Security Governance & Risk Management
 
-**Semester:** 1 | **Year:** 2025/2026 | **Instructor:** Assoc. Prof. Dr. Norafida Ithnin
+**Semester:** 1 | **Year:** 2025/2026 | **Instructor:** Assoc. Prof. Dr. Norafida Ithnin | **GPA:** 4.00 
 
 ---
 
