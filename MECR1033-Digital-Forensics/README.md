@@ -1,4 +1,4 @@
-# MECR1033 – Digital Forensics (Full Course Portfolio)
+# MECR1033 – Digital Forensics
 
 **Semester:** 1 | **Year:** 2025/2026 | **Instructor:** Assoc. Prof. Ts. Dr. Siti Hajar Othman | **GPA:** 4.00
 
