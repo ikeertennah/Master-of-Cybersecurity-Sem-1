@@ -4,6 +4,7 @@
 **Matric No:** MEC254026  
 **Program:** Master of Cybersecurity (UTM)  
 **Academic Year:** 2025/2026
+**CGPA:** 4.00
 
 ---
 
